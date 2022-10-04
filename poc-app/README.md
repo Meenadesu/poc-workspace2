@@ -1,4 +1,4 @@
-# MortgageApplication
+# MortgageApplicationtest1
 This version of the MortgageApplication sample is designed to be built by zAppBuild. 
 
 **Example showing how to build all programs in MortgageApplication**
